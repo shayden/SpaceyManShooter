@@ -1,0 +1,4037 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1230]
+    Renderer: AMD Radeon HD 7700 Series
+    Vendor:   ATI
+    VRAM:     1006 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+desktop: 1600x900 60Hz; virtual: 4640x900 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1230]
+    Renderer: AMD Radeon HD 7700 Series
+    Vendor:   ATI
+    VRAM:     1006 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1600x900 60Hz; virtual: 4640x900 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sean\Documents\Unity Projects\TopDownTest\builds\spaceyman_Data\Managed\System.Core.dll (this message is harmless)
+Server Up
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.NetworkManager:OnServerInitialized() (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\NetworkManager.cs:57)
+UnityEngine.Network:InitializeServer(Int32, Int32, Boolean)
+Assets.Scripts.NetworkManager:StartServer() (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\NetworkManager.cs:20)
+Assets.Scripts.NetworkManager:OnGUI() (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\NetworkManager.cs:78)
+ 
+(Filename: C Line: 0)
+
+Received pong from 192.168.56.1:25000
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Network/NetworkManager.cpp Line: 831)
+
+Received pong from 192.168.2.96:25000
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/Runtime/Network/NetworkManager.cpp Line: 831)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Server Joined
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.NetworkManager:OnConnectedToServer() (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\NetworkManager.cs:42)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Successfully diconnected from the server.  PeerType now Client
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnDisconnectedFromServer(NetworkDisconnection) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:347)
+ 
+(Filename: C Line: 0)
+
+SpawnTracker is null
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnDisconnectedFromServer(NetworkDisconnection) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:351)
+ 
+(Filename: C Line: 0)
+
+Cleaning up after player 1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.NetworkManager:OnPlayerDisconnected(NetworkPlayer) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\NetworkManager.cs:50)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Serializing
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnSerializeNetworkView(BitStream, NetworkMessageInfo) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:209)
+ 
+(Filename: C Line: 0)
+
+Local server connection disconnected
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Assets.Scripts.GraduallyUpdateState:OnDisconnectedFromServer(NetworkDisconnection) (at C:\Users\sean\Documents\Unity Projects\TopDownTest\Assets\Scripts\GraduallyUpdateState.cs:339)
+ 
+(Filename: C Line: 0)
+
